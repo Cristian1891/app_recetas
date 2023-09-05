@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+
+/* METODOS PARA CONSUMIR */
+service UsuarioService{
+	rpc addUsuario (UsuarioDTO) returns (UsuarioObjDTO);
+	rpc getUsuario(GetUsuarioRequest)returns (UsuarioObjDTO);
+	rpc getByUsuarioYClaveRequest (GetByUsuarioYClaveRequest) returns (UsuarioObjDTO);
+	
+}
+
+/* MODEL */
+message UsuarioDTO{
+	int32 idUsuario = 1;
+	string nombre = 2;
+	string apellido = 3;
+	string email = 4;
+	string usuario = 5;
+	string clave = 6;
+}
+
+/* REQUEST */
+message GetUsuarioRequest{
+	int32 idUsuario=1;
+}
+
+/* RECIBE PEDIDO DE USUARIO CON NOMBRE DE USUARIO Y CLAVE */
+message GetByUsuarioYClaveRequest{
+	string usuario = 1;
+	string clave = 2;
+}
+
+
+/* RESPUESTA */
+message UsuarioServerResponse{
+	int32 code = 1;
+	string msg = 2;
+}
+/* DEVUELVE USUARIO */
+message UsuarioObjDTO{
+	UsuarioDTO usuario = 1;
+	UsuarioServerResponse serverResponse = 2;
+}
+
+/* DEVUELVE LISTA DE USUARIOS */
+message ListUsuarioDTO{
+	repeated UsuarioDTO usuarios = 1;
+	UsuarioServerResponse serverResponse = 2;
+}
