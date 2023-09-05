@@ -1,0 +1,30 @@
+[
+    {
+        "id_detalle": 1,
+        "id_receta": 1,
+        "titulo": "Receta de Galletas de avena",
+        "descripcion": "Estas galletas de avena fáciles y rápidas que compartimos están muy ricas y se pueden degustar acompañadas con un chocolate calentito o bien un café. Esta receta es ideal para la gente que le guste la avena tanto como a nosotros y que busquen, a su vez, snacks saludables y caseros, ya que la cantidad utilizada de azúcar es mínima y, además, ofrecemos alternativas más sanas.Si no dispones de mucho tiempo y quieres preparar un dulce sencillo y resultón para desayunar o merendar, prueba esta receta de galletas de avena fáciles de hacer. Quédate con nosotros, descubre cómo hacer galletas de avena y dinos qué te han parecido.",
+        "tiempo_preparacion": "15 minutos"
+    },
+    {
+        "id_detalle": 2,
+        "id_receta": 2,
+        "titulo": "Receta de Medialunas de manteca saladas",
+        "descripcion": "Las medialunas son una de las facturas más elegidas en las panaderías argentinas. Asimismo, generan largos debates alrededor del mate, para identificar cuáles son las mejores. Sin embargo, lo habitual es que las medialunas rellenas de manteca sean dulces, privando de este manjar a los que las prefieren saladas. Por ello, queremos enseñarte a prepararlas en casa de manera sencilla y, aunque lleve un poco de tiempo, te aseguramos que el resultado vale la pena.",
+        "tiempo_preparacion": "180 minutos"
+    },
+    {
+        "id_detalle": 3,
+        "id_receta": 3,
+        "titulo": "Receta de Tarta Ópera",
+        "descripcion": "La tarta Ópera es un clásico de la repostería francesa. Consiste en una tarta muy elaborada con varios pasos, como es costumbre en la alta repostería francesa. La historia de la tarta Ópera, como casi todos los pasteles populares, es algo incierto. Dos son las teorías de creación: la primera es a cargo de un famoso chef pastelero de la época, Louis Clichy, que creó este pastel para la Exposición Culinaria de París, a principio del siglo XX. La segunda teoría, es que fue creada a mitad del siglo XX en la pastelería Dalloyau y le pusieron este nombre como homenaje a la Ópera Garnier de París, ya que los colores de la tarta recuerdan a los mármoles y ébanos de la famosa ópera parisina. Sea como sea su creación, lo cierto es que se ha convertido en una tarta clásica que ha llegado a nuestros días como una de las tartas más ricas de la repostería. Tiene un sabor característico a café, con finas capas de bizcocho Gioconda, ganache de chocolate y crema de mantequilla de café. Si te gusta la repostería, y quieres recrear esta famosa tarta, has venido al lugar adecuado.",
+        "tiempo_preparacion": "240 minutos"
+    },
+    {
+        "id_detalle": 4,
+        "id_receta": 4,
+        "titulo": "Receta de Bizcocho vegano de yogur",
+        "descripcion": "Este bizcocho o pastel vegano fácil de yogur es un postre elaborado únicamente con ingredientes de origen vegetal. Una receta perfecta si eres vegano o tienes alergia al huevo o lácteos. Además, es muy fácil de preparar, con insumos que encuentras en la cocina, ya que solo necesitarás un par de bowls, un batidor globo y un molde.Por ello, queremos enseñarte cómo hacer bizcocho vegano de yogur, un pastel con una miga realmente esponjosa, tierna, al mismo tiempo húmeda y con trocitos crujientes de pecanas y almendras.",
+        "tiempo_preparacion": "90 minutos"
+    }
+]

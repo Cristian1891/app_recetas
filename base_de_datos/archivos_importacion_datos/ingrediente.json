@@ -1,0 +1,267 @@
+[
+    {
+        "id_ingrediente": 1,
+        "descripcion_ingrediente": "120 gramos de avena en copos suaves (hojuelas)",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 2,
+        "descripcion_ingrediente": "40 gramos de harina (de trigo o de avena)",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": "3",
+        "descripcion_ingrediente": "40 gramos de azúcar (moreno o blanco)",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 4,
+        "descripcion_ingrediente": "1 huevo",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 5,
+        "descripcion_ingrediente": "60 mililitros de aceite de girasol",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 6,
+        "descripcion_ingrediente": "1 cucharadita de levadura en polvo (polvos de hornear)",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 7,
+        "descripcion_ingrediente": "1 cucharadita de canela molida",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 8,
+        "descripcion_ingrediente": "1 pellizco de sal",
+        "id_detalle": 1
+    },
+    {
+        "id_ingrediente": 9,
+        "descripcion_ingrediente": "60 centímetros cúbicos de leche tibia",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 10,
+        "descripcion_ingrediente": "50 gramos de harina 0000",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 11,
+        "descripcion_ingrediente": "1 cucharadita de azúcar",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 12,
+        "descripcion_ingrediente": "15 gramos de levadura fresca",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 13,
+        "descripcion_ingrediente": "70 gramos de manteca pomada",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 14,
+        "descripcion_ingrediente": "25 gramos de harina 0000",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 15,
+        "descripcion_ingrediente": "225 gramos de harina 0000",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 16,
+        "descripcion_ingrediente": "60 centímetros cúbicos de leche tibia",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 17,
+        "descripcion_ingrediente": "1 huevo",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 18,
+        "descripcion_ingrediente": "1 cucharadita de sal",
+        "id_detalle": 2
+    },
+    {
+        "id_ingrediente": 19,
+        "descripcion_ingrediente": "100 gramos de azúcar (½ taza)",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 20,
+        "descripcion_ingrediente": "75 mililitros de agua",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 21,
+        "descripcion_ingrediente": "2 cucharadas soperas de café soluble",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 22,
+        "descripcion_ingrediente": "100 gramos de almendra molida",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 23,
+        "descripcion_ingrediente": "100 gramos de azúcar glas",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 24,
+        "descripcion_ingrediente": "3 huevos M",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 25,
+        "descripcion_ingrediente": "25 gramos de mantequilla sin sal fundida",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 26,
+        "descripcion_ingrediente": "25 gramos de harina común",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 27,
+        "descripcion_ingrediente": "3 claras de huevo M",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 28,
+        "descripcion_ingrediente": "50 gramos de azúcar blanca granulada",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 29,
+        "descripcion_ingrediente": "50 gramos de chocolate negro de postres para pincelar",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 30,
+        "descripcion_ingrediente": "150 mililitros de agua",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 31,
+        "descripcion_ingrediente": "75 gramos de azúcar",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 32,
+        "descripcion_ingrediente": "2 cucharadas soperas de extracto de café casero",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 33,
+        "descripcion_ingrediente": "100 gramos de chocolate negro",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 34,
+        "descripcion_ingrediente": "125 mililitros de nata para montar",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 35,
+        "descripcion_ingrediente": "15 gramos de mantequilla",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 36,
+        "descripcion_ingrediente": "150 gramos de azúcar (¾ taza)",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 37,
+        "descripcion_ingrediente": "50 mililitros de agua",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 38,
+        "descripcion_ingrediente": "2 huevos M",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 39,
+        "descripcion_ingrediente": "200 gramos de mantequilla sin sal a temperatura ambiente",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 40,
+        "descripcion_ingrediente": "2 cucharadas soperas de extracto de café casero",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 41,
+        "descripcion_ingrediente": "200 gramos de chocolate negro",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 42,
+        "descripcion_ingrediente": "25 mililitros de aceite de semillas",
+        "id_detalle": 3
+    },
+    {
+        "id_ingrediente": 43,
+        "descripcion_ingrediente": "100 gramos de yogur vegano",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 44,
+        "descripcion_ingrediente": "4 gramos de vinagre",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 45,
+        "descripcion_ingrediente": "50 gramos de aceite",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 46,
+        "descripcion_ingrediente": "150 gramos de harina",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 47,
+        "descripcion_ingrediente": "10 gramos de maicena",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 48,
+        "descripcion_ingrediente": "4 gramos de bicarbonato de sodio",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 49,
+        "descripcion_ingrediente": "90 gramos de azúcar",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 50,
+        "descripcion_ingrediente": "220 gramos de almendras tostadas",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 51,
+        "descripcion_ingrediente": "35 gramos de pecanas tostadas",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 52,
+        "descripcion_ingrediente": "100 gramos de leche de almendras",
+        "id_detalle": 4
+    },
+    {
+        "id_ingrediente": 53,
+        "descripcion_ingrediente": "1 pizca de sal",
+        "id_detalle": 4
+    }
+]
