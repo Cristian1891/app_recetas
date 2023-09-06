@@ -5,12 +5,11 @@ ___
 
 Integrantes:
 
-| Nombre | Apellido |
-| ------ | -------- |
-|        |          |
-|        |          |
-|        |          |
-|        |          |
-|        |          |
+| Nombre y Apellido       |
+| ----------------------  |
+| Cristian Raul Ovejero   |
+| Julian Santiago Tomczak |
+| Cristian Marcelo Medina |
+| Sebastián Pennini       |
+| Kevin James Grimberg    |
 
-## Descripcion TP:
