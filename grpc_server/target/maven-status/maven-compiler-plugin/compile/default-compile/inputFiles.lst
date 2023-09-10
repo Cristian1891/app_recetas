@@ -1,0 +1,17 @@
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Paso.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\bo\UsuarioBO.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Detalle.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Foto.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Receta.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\dao\JPAUtil.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\server\GrpcServer.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\dao\UsuarioDAO.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Ingrediente.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Seguimiento.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\test\TestUsuarioDAO.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\grpc\Usuario.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\grpc\UsuarioServiceGrpc.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Categoria.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\service\UsuarioService.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Favorita.java
+C:\Users\Pc\Desktop\app_recetas\grpc_server\src\main\java\model\Usuario.java

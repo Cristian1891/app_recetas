@@ -1,11 +1,9 @@
 package bo;
 
-
-import grpc.Usuario.UsuarioDTO;
 import dao.UsuarioDAO;
+import grpc.Usuario.UsuarioDTO;
 import model.Usuario;
 
-// import grpc.Usuario.UsuarioDTO;
 
 public class UsuarioBO {
     private static UsuarioBO instancia;
