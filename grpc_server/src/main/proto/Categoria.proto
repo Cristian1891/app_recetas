@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option java_package = "grpc";
+
+/* METODOS PARA CONSUMIR */
+service CategoriaService{
+	rpc addCategoria (CategoriaDTO) returns (CategoriaObjDTO);
+	rpc getCategoria(GetCategoriaRequest)returns (CategoriaObjDTO);
+}
+
+/* MODEL */
+message CategoriaDTO{
+	int32 idCategoria = 1;
+	string nombre = 2;
+}
+
+/* REQUEST */
+message GetCategoriaRequest{
+	int32 idCategoria=1;
+}
+
+
+/* RESPUESTA */
+message CategoriaServerResponse{
+	int32 code = 1;
+	string msg = 2;
+}
+/* DEVUELVE Categoria */
+message CategoriaObjDTO{
+	CategoriaDTO categoria = 1;
+	CategoriaServerResponse serverResponse = 2;
+}
+
+/* DEVUELVE LISTA DE Categorias */
+message ListCategoriaDTO{
+	repeated CategoriaDTO categorias = 1;
+	CategoriaServerResponse serverResponse = 2;
+}

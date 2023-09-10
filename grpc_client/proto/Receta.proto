@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+/* METODOS PARA CONSUMIR */
+service RecetaService{
+	rpc addReceta (RecetaDTO) returns (RecetaObjDTO);
+	rpc getReceta(GetRecetaRequest)returns (RecetaObjDTO);
+}
+
+/* MODEL */
+message RecetaDTO{
+	int32 idReceta = 1;
+	string nombre = 2;
+	int32 idUsuario = 3;
+	int32 idCategoria = 4;
+}
+
+/* REQUEST */
+message GetRecetaRequest{
+	int32 idReceta=1;
+}
+
+
+/* RESPUESTA */
+message RecetaServerResponse{
+	int32 code = 1;
+	string msg = 2;
+}
+/* DEVUELVE RECETA */
+message RecetaObjDTO{
+	RecetaDTO receta = 1;
+	RecetaServerResponse serverResponse = 2;
+}
+
+/* DEVUELVE LISTA DE RECETAS */
+message ListRecetaDTO{
+	repeated RecetaDTO recetas = 1;
+	RecetaServerResponse serverResponse = 2;
+}
