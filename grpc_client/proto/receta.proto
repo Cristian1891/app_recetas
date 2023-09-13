@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+/* Model: Entidad Receta */
+message RecetaDTO {
+    int32 idReceta = 1;
+    string nombre = 2;
+    int32 idUsuario = 3;
+    int32 id_categoria = 4;
+}
+
+/* Request: ABM de recetas */
+
+/* Request: objeto nulo para metodos que no reciben parametros*/
+message Empty{
+
+}
+
+
+/* Request: Filtros por parametros */
+message RecetaFilterDTO {
+    int32 idReceta = 1;
+    int32 categoria = 2;
+    string titulo = 3;
+    string ingredientes = 4;
+    string tiempoPreparacion = 5;
+}
+
+/* Response: Servidor */
+message RecetaServerResponse {
+    int32 code = 1;
+    string msg = 2;
+}
+
+/* Response: ABM de recetas */
+message RecetaResponse {
+    RecetaDTO receta = 1;
+    RecetaServerResponse serverResponse = 2;
+}
+/* Response: Get Lista de recetas */
+message ListaRecetasDTO{
+    repeated RecetaDTO recetas = 1;
+    RecetaServerResponse serverResponse = 2;
+}
+
+/* Metodos para consumir */
+service RecetaService {
+    rpc addReceta(RecetaDTO) returns (RecetaResponse);
+    rpc updateReceta(RecetaDTO) returns (RecetaResponse);
+    rpc GetRecetaByFilter(RecetaFilterDTO) returns (ListaRecetasDTO);
+    rpc GetAllRecetas(Empty) returns (ListaRecetasDTO);
+}
