@@ -4,12 +4,14 @@ d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\dao\JPAUtil.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\model\Foto.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\grpc\Usuario.java
+d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\service\RecetaService.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\dao\RecetaDAO.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\model\Receta.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\grpc\CategoriaServiceGrpc.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\grpc\UsuarioServiceGrpc.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\dao\CategoriaDAO.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\test\TestCategoriaDAO.java
+d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\service\CategoriaService.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\test\TestRecetaDAO.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\model\Paso.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\test\TestUsuarioDAO.java
@@ -23,4 +25,5 @@ d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\model\Categoria.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\bo\UsuarioBO.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\grpc\Receta.java
+d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\bo\RecetaBO.java
 d:\Documentos\UNLa4\Desarrollo de software en Sistemas Distribuidos\app_recetas-CristianO\grpc_server\src\main\java\model\Seguimiento.java
